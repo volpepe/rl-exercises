@@ -2,3 +2,6 @@ numpy
 pandas
 matplotlib
 ipykernel
+tensorflow
+gym
+gym[atari]
